@@ -1,4 +1,4 @@
-- StopWatch
+# StopWatch
 ```html
 <!DOCTYPE html>
 <html lang="en">
